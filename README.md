@@ -1,8 +1,8 @@
 # INTIMSPOT160ILS_V2
 
-#### These software update instructions are for the Version 2 of the Intimidator Spot 160 ILS. If you have a Version 1 of this product, please contact Customer Service for a copy of the compatible software.
+### This firmware is for the Version 2 of the Intimidator Spot 160 ILS. If you have a Version 1 of this product, please contact Customer Service for further instructions on how to update your unit.
 
-### Firmware Update Instructions
+## Firmware Update Instructions
 1. Download the zip file onto your computer and extract the folder.
 2. Transfer the contents from the zip file onto a USB thumb drive.
 3. Hold down the menu button then power on the fixture to put it into upload mode.
@@ -10,7 +10,7 @@
 5. The fixture will reset itself automatically and display the new firmware version during start up.
 6. The USB thumb drive can be removed after the fixture restarts.
 
-#### Special Notes
+### Special Notes
 * Do not use a thumb drive greater than 32GB.
 * The thumb drive must be formatted to FAT32.
 * The downloaded firmware file must be placed in the root directory on the thumb drive (no folders).
