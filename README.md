@@ -1,7 +1,6 @@
 # INTIMSPOT160ILS_V2
 
-#### These software update instructions are for the Version 2 of the Intimidator Spot 160 ILS. 
-If you have a Version 1 of this product, please contact Customer Service for a copy of the compatible software.
+#### These software update instructions are for the Version 2 of the Intimidator Spot 160 ILS. If you have a Version 1 of this product, please contact Customer Service for a copy of the compatible software.
 
 ### Firmware Update Instructions
 1. Download the zip file onto your computer and extract the folder.
