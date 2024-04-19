@@ -1,7 +1,7 @@
 # INTIMSPOT160ILS_V2
 
 ### This firmware is for Version 2 of the Intimidator Spot 160 ILS. If you have Version 1 of this product, please contact Customer Service for further instructions on how to update your unit.
-
+&nbsp;
 ## Firmware Update Instructions
 1. Download the zip file onto your computer and extract the folder.
 2. Transfer the contents from the zip file onto a USB thumb drive.
