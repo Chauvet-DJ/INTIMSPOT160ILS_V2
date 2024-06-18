@@ -6,11 +6,11 @@
 
 ## Software Versions
 
-[V2.0 - Intimidator Spot 160 ILS_V2](https://github.com/Chauvet-DJ/INTIMSPOT160ILS_V2/blob/e43b73325d538767a124a7f1b89461edad1008ba/firmware/V2.0_05-12-2023.zip)
-- Fixed a bug on the gobo wheel when used with the ILS Command
-
 [V2.01 - Intimidator Spot 160 ILS V2](https://github.com/Chauvet-DJ/INTIMSPOT160ILS_V2/blob/915aab0734bce32a12307e1444a38853f7dcef45/firmware/V2.01_06-17-24.zip)
 - Fixed bug when setting the DMX Address
+
+[V2.0 - Intimidator Spot 160 ILS_V2](https://github.com/Chauvet-DJ/INTIMSPOT160ILS_V2/blob/e43b73325d538767a124a7f1b89461edad1008ba/firmware/V2.0_05-12-2023.zip)
+- Fixed a bug on the gobo wheel when used with the ILS Command
 
 &nbsp; 
 
